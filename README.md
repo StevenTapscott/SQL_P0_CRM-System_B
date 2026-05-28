@@ -1,12 +1,5 @@
-Customer Relationship Management (CRM) System – SQL Server Project
-
-# SQL_P0_CRM-System_B  
-
-**Project:** 0
-**Difficulty:** Beginner  
-**Domain:** SQL  
-**Focus:** Relational Database Design 
-
+# Customer Relationship Management (CRM) System – SQL Server Project
+  
 ## Project Overview
 
 This project involves the design and implementation of a **Customer Relationship Management (CRM) system** using **SQL Server Management Studio (SSMS)**. The system is built to manage customer data, track orders, monitor product performance, and analyse customer feedback.
